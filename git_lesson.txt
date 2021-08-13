@@ -1,0 +1,11 @@
+# download the repo
+git clone <repo>
+
+# once changes are made, add to git
+git add <filename>
+
+# commit to git and add a message
+git commit -m "Insert your message here"
+
+# push to the proper branch
+git push origin develop
